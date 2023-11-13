@@ -1,4 +1,3 @@
-import assets 
 #Integrantes: 
 #Alex Joel Cruz Rivas
 #Erick Manuel Huanca Chimoy
@@ -7,6 +6,9 @@ import assets
 #Willian Puma Gutierrez
 #Aaron Humberto Quintana Ordoñez
 #Jhon Alexander Rosell Chiclayo
+
+import assets 
+
 def main():
     print("main")
     print("Iniciando")
